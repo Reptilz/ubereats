@@ -7,7 +7,7 @@ Inspired by ubereats, I reproduced a home page similar to that of ubereats. I ma
 
 ## Demo
 
-Insert gif or link to demo
+[Click here to see demo!](https://ubereats-jmorlet.netlify.app/)
 
 
 ## 🔗 Links
@@ -15,6 +15,5 @@ Insert gif or link to demo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-morlet-18481619a/)
 
 
-## Lessons Learned
 
 
